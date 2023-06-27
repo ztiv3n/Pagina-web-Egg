@@ -95,8 +95,7 @@ form{
   flex-wrap: wrap;
   width: 100%;
   justify-content: space-evenly;
-  margin: 20px;
-
+  margin: auto;
 }
 
 .container ul{
